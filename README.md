@@ -1,5 +1,5 @@
 # What is BMAN
-BMAN or Basic Maneuver Notator is a simple program for writing out drill charts and will hopefully end the days of handwriten charts that have been photocopied 500 times. I of course dont have a massive scope for this project, but if you would like to suggest changes or contribute feel free.
+BMAN or Basic Maneuver Notator is a simple program for writing out drill charts and will hopefully end the days of handwriten charts that have been photocopied 500 times. I of course don't really have a massive scope for this project, but if you would like to suggest changes or contribute feel free.
 # Roadmap For the (B)asic (MA)neuver (N)otator (BMAN)
 
 ## Structure
