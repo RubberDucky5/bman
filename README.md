@@ -15,3 +15,4 @@ Behind the scenes the band as a whole will contain all the instructions, and wil
 
 
 ## Instruction Encoding
+The encoding structure should go as follows; each instruction will have specific properties. Things like who or what group is performing an action, and what the action is (marking time, about face, etc.). These instructions will be "Encoded" into a string where each instruction has the previously mentioned values in a shorthand format somethind like: H3mt2x8,H4fm2x8. However, this solution has a problem I will need to adress, it seems like it lacks some obviously needed inputs, and doesn't really show what someone should do at a specific time. I may be able to fix this with a system where each individual has a similar string that they must follow and missing instructions would just mean do nothing, this solution however may bloat file sizes.
