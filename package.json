@@ -1,0 +1,24 @@
+{
+  "name": "bman",
+  "version": "1.0.0",
+  "description": "Simple Drill Chart Maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubberDucky5/bman.git"
+  },
+  "keywords": [
+    "drill",
+    "marching",
+    "music"
+  ],
+  "author": "James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubberDucky5/bman/issues"
+  },
+  "homepage": "https://github.com/RubberDucky5/bman#readme"
+}
