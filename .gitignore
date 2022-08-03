@@ -29,3 +29,6 @@ Temporary Items
 
 # Ignore VSCode Created Files
 .vs
+
+# Node Stuff
+node_modules/

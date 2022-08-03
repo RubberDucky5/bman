@@ -2,7 +2,7 @@
   "name": "bman",
   "version": "1.0.0",
   "description": "Simple Drill Chart Maker",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "test"
   },
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/RubberDucky5/bman/issues"
   },
-  "homepage": "https://github.com/RubberDucky5/bman#readme"
+  "homepage": "https://github.com/RubberDucky5/bman#readme",
+  "devDependencies": {
+    "electron": "^20.0.1"
+  }
 }
