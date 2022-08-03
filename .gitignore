@@ -26,3 +26,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Ignore VSCode Created Files
+.vs
