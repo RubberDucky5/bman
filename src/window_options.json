@@ -1,0 +1,17 @@
+{
+    "width": 800,
+    "height": 600,
+    "center": false,
+    "resizable": true,
+    "movable": true,
+    "minimizable": true,
+    "maximizable": true,
+    "alwaysOnTop": false,
+    "fullscreen": false,
+    "fullscreenable": true,
+    "title": "Electron",
+    "icon": null,
+    "frame": true,
+    "autoHideMenuBar": true,
+    "backgroundColor": "rgb(255,255,255)"
+}
