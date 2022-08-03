@@ -2,9 +2,9 @@
   "name": "bman",
   "version": "1.0.0",
   "description": "Simple Drill Chart Maker",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
-    "test": "test"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
