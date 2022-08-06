@@ -11,7 +11,7 @@ function createApplication() {
     }
     const window = new BrowserWindow(settings);
 
-    window.loadFile('src/index.html');
+    window.loadFile('src/windows/main/index.html');
 }
 
 app.whenReady().then(() => {
