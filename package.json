@@ -23,5 +23,8 @@
   "homepage": "https://github.com/RubberDucky5/bman#readme",
   "devDependencies": {
     "electron": "^20.0.1"
+  },
+  "dependencies": {
+    "three": "^0.143.0"
   }
 }
